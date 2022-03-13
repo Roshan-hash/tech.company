@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tech.company/static/css/main.ad4a615c.css",
+    "main.js": "/tech.company/static/js/main.84134480.js",
+    "static/media/Blog-04.jpg": "/tech.company/static/media/Blog-04.f0b29a3c28da5dd019d1.jpg",
+    "static/media/Blog03.jpg": "/tech.company/static/media/Blog03.a1d3c4983b4954107c3c.jpg",
+    "static/media/Blog02.jpg": "/tech.company/static/media/Blog02.40e7bd273a6d57cd83d0.jpg",
+    "static/media/web.png": "/tech.company/static/media/web.2191a7ee84e6ec7c1db6.png",
+    "static/media/Blog-05.jpg": "/tech.company/static/media/Blog-05.6ea974107816c3d820ff.jpg",
+    "static/media/Blog-06.jpg": "/tech.company/static/media/Blog-06.1748d5623b8474a7f4b4.jpg",
+    "static/media/Circle-chart.png": "/tech.company/static/media/Circle-chart.17578df187e7a8b1e1b0.png",
+    "static/media/Members.png": "/tech.company/static/media/Members.05e22f732dd089e2b81b.png",
+    "static/media/instagram.png": "/tech.company/static/media/instagram.15d77dca0ebcbb9aa0d5.png",
+    "static/media/twitter.png": "/tech.company/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/wlogo.png": "/tech.company/static/media/wlogo.e3fbc2b5fe0164fdc2b2.png",
+    "static/media/facebook.png": "/tech.company/static/media/facebook.a5def58db1e9c1b38269.png",
+    "static/media/linkedin.png": "/tech.company/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/tech.company/index.html",
+    "main.ad4a615c.css.map": "/tech.company/static/css/main.ad4a615c.css.map",
+    "main.84134480.js.map": "/tech.company/static/js/main.84134480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4a615c.css",
+    "static/js/main.84134480.js"
+  ]
+}
